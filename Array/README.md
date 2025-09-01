@@ -1,2 +1,9 @@
-[Majority Element](https://leetcode.com/problems/majority-element/description/)
-[Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/description/)
+# Array Problems
+
+A collection of array-related coding problems with solution links.
+
+## Problems List
+
+- [Majority Element](https://leetcode.com/problems/majority-element/)
+- [Two Sum](https://leetcode.com/problems/two-sum/)
+- [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
