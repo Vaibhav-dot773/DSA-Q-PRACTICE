@@ -1,4 +1,3 @@
-- [Valid Anagram](https://leetcode.com/problems/valid-anagram/submissions/1755818875/)
 # String Problems
 
 A collection of string-related coding problems with solution links.
@@ -8,3 +7,4 @@ A collection of string-related coding problems with solution links.
 - [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 - [Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/)
 - [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/submissions/1755612208/)
+- [Valid Anagram](https://leetcode.com/problems/valid-anagram/submissions/1755818875/)
