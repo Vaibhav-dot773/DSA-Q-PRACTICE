@@ -8,4 +8,4 @@ A collection of string-related coding problems with solution links.
 - [Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/)
 - [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/submissions/1755612208/)
 - [Valid Anagram](https://leetcode.com/problems/valid-anagram/submissions/1755818875/)
-- [Reverse String](https://leetcode.com/problems/reverse-string/)
+- [Reverse String](https://leetcode.com/problems/reverse-words-in-a-string/description/)
