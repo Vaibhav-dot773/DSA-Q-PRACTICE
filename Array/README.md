@@ -1,3 +1,4 @@
+- [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)
 # Array Problems
 
 A collection of array-related coding problems with solution links.
