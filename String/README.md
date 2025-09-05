@@ -1,4 +1,3 @@
-- [String Compression](https://leetcode.com/problems/string-compression/submissions/1760071995/)
 # String Problems
 A collection of string-related coding problems with solution links.
 
@@ -9,3 +8,4 @@ A collection of string-related coding problems with solution links.
 - [Valid Anagram](https://leetcode.com/problems/valid-anagram/submissions/1755818875/)
 - [Reverse String](https://leetcode.com/problems/reverse-string/)
 - [Permutation in String](https://leetcode.com/problems/permutation-in-string/submissions/1759475437/)
+- [String Compression](https://leetcode.com/problems/string-compression/submissions/1760071995/)
