@@ -1,3 +1,4 @@
+- [String Compression](https://leetcode.com/problems/string-compression/submissions/1760071995/)
 # String Problems
 A collection of string-related coding problems with solution links.
 
