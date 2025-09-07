@@ -1,4 +1,3 @@
-- [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/submissions/1762670249/)
 # Array Problems
 
 A collection of array-related coding problems with solution links.
@@ -10,7 +9,4 @@ A collection of array-related coding problems with solution links.
 - [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)
 - [Repeat and Missing order](https://leetcode.com/problems/find-missing-and-repeated-values/submissions/1761353832/ )
-- [Merge two sorted array](https://leetcode.com/problems/merge-sorted-array/description/ )
-- [Merge two sorted array](https://leetcode.com/problems/merge-sorted-array/description/)
-- [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)
 - [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/submissions/1762670249/)
