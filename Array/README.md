@@ -12,3 +12,4 @@ A collection of array-related coding problems with solution links.
 - [Merge two sorted array](https://leetcode.com/problems/merge-sorted-array/description/ )
 - [Merge two sorted array](https://leetcode.com/problems/merge-sorted-array/description/)
 - [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)
+- [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/submissions/1762670249/)
