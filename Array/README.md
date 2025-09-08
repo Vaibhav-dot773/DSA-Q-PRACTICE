@@ -3,6 +3,7 @@
 A collection of array-related coding problems with solution links.
 
 ## Problems List
+- [Single Number](https://leetcode.com/problems/single-number/submissions/1764023525/)
 
 - [Majority Element](https://leetcode.com/problems/majority-element/)
 - [Two Sum](https://leetcode.com/problems/two-sum/)
