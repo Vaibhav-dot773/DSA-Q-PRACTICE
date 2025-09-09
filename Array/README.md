@@ -11,3 +11,4 @@ A collection of array-related coding problems with solution links.
 - [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)
 - [Repeat and Missing order](https://leetcode.com/problems/find-missing-and-repeated-values/submissions/1761353832/ )
 - [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/submissions/1762670249/)
+- [Pow(x, n)](https://leetcode.com/problems/powx-n/description/)
