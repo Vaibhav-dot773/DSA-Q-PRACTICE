@@ -14,3 +14,4 @@ A collection of array-related coding problems with solution links.
 - [Pow(x, n)](https://leetcode.com/problems/powx-n/description/)
 - [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)
 - [Sort Colors](https://leetcode.com/problems/sort-colors/description/)
+- [Longest Happy Prefix](https://leetcode.com/problems/longest-happy-prefix/description/)
