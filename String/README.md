@@ -11,3 +11,4 @@ A collection of string-related coding problems with solution links.
 - [String Compression](https://leetcode.com/problems/string-compression/submissions/1760071995/)
 - [Group Anagrams](https://leetcode.com/problems/group-anagrams/submissions/1760183420/)
 - [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/submissions/1761341988/)
+- [Longest Happy Prefix](https://leetcode.com/problems/longest-happy-prefix/description/)
