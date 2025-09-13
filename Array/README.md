@@ -14,3 +14,4 @@ A collection of array-related coding problems with solution links.
 - [Pow(x, n)](https://leetcode.com/problems/powx-n/description/)
 - [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)
 - [Sort Colors](https://leetcode.com/problems/sort-colors/description/)
+- [3Sum](https://leetcode.com/problems/3sum/description/)
