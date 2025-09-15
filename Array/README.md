@@ -15,3 +15,4 @@ A collection of array-related coding problems with solution links.
 - [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)
 - [Sort Colors](https://leetcode.com/problems/sort-colors/description/)
 - [3Sum](https://leetcode.com/problems/3sum/description/)
+- [4Sum](https://leetcode.com/problems/4sum/description/)
