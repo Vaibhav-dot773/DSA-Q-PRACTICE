@@ -16,3 +16,4 @@ A collection of array-related coding problems with solution links.
 - [Sort Colors](https://leetcode.com/problems/sort-colors/description/)
 - [3Sum](https://leetcode.com/problems/3sum/description/)
 - [4Sum](https://leetcode.com/problems/4sum/description/)
+- [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/)
