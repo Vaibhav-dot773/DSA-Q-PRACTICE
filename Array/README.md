@@ -18,3 +18,4 @@ A collection of array-related coding problems with solution links.
 - [4Sum](https://leetcode.com/problems/4sum/description/)
 - [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/)
 - [Next Permutation](https://leetcode.com/problems/next-permutation/description/)
+- [Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)
