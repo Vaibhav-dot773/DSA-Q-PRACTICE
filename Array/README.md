@@ -1,29 +1,5 @@
-ø
-ø
-.
-- [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/submissions/1778014481/)
-
-- [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/submissions/1778014481/)
-
 # Array Problems
 
-A collection of array-related coding problems with solution links.
-
-## Problems List
-- [Single Number](https://leetcode.com/problems/single-number/submissions/1764023525/)
-
-- [Majority Element](https://leetcode.com/problems/majority-element/)
 - [Two Sum](https://leetcode.com/problems/two-sum/)
 - [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
-- [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)
-- [Repeat and Missing order](https://leetcode.com/problems/find-missing-and-repeated-values/submissions/1761353832/ )
-- [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/submissions/1762670249/)
-- [Pow(x, n)](https://leetcode.com/problems/powx-n/description/)
-- [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)
-- [Sort Colors](https://leetcode.com/problems/sort-colors/description/)
-- [3Sum](https://leetcode.com/problems/3sum/description/)
-- [4Sum](https://leetcode.com/problems/4sum/description/)
-- [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/)
-- [Next Permutation](https://leetcode.com/problems/next-permutation/description/)
-- [Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)
-- [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
+- [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/submissions/1778014481/)
