@@ -1,9 +1,3 @@
-ø
-ø
-.
-- [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/submissions/1778014481/)
-
-- [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/submissions/1778014481/)
 
 # Array Problems
 
@@ -27,3 +21,5 @@ A collection of array-related coding problems with solution links.
 - [Next Permutation](https://leetcode.com/problems/next-permutation/description/)
 - [Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)
 - [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
+- [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/submissions/1778014481/)
+
