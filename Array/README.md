@@ -1,4 +1,4 @@
-- [Word Search](https://leetcode.com/problems/word-search/submissions/1780223021/)
+
 
 # Array Problems
 
@@ -23,4 +23,5 @@ A collection of array-related coding problems with solution links.
 - [Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)
 - [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
 - [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/submissions/1778014481/)
+- [Word Search](https://leetcode.com/problems/word-search/submissions/1780223021/)
 
